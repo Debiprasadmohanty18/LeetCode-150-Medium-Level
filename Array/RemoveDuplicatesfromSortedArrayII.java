@@ -1,5 +1,7 @@
-package Array;
+/*
+*/
 
+package Array;
 
 public class RemoveDuplicatesfromSortedArrayII {
 
