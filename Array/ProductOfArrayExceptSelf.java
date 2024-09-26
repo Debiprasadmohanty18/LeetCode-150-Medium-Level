@@ -27,7 +27,7 @@ public class ProductOfArrayExceptSelf {
 
 	public static int[] productExceptSelf(int[] nums) 
 	{
-     /* int i=0;
+     /* int i=0;				// This Commented lines will run perfectly but It will give O(n) Space Complexity and O(n*n) Ti,e Complecxity.
        
         int[] outputNums = new int[nums.length];
         
