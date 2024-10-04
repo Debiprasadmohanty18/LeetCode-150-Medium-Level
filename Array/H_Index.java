@@ -13,7 +13,10 @@ Since the researcher has 3 papers with at least 3 citations each and the remaini
 Example 2:
 Input: citations = [1,3,1]
 Output: 1
+
 */
+
+
 package com.tanmay.LeetCode150Medium.Array;
 
 public class H_Index {
